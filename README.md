@@ -25,16 +25,16 @@
       <br>C++
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/npm-logo.png" width="48" height="48" alt="CSS3" title="CheerioJs"/>
-      <br>CheerioJS
-    </td>
-    <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" width="48" height="48" alt="CSS3" title="Cascading Stylesheets"/>
       <br>CSS3
     </td>
     <td align="center" width="96">
-        <img src="https://seeklogo.com/images/C/confluence-logo-D9B07137C2-seeklogo.com.png" width="48" height="48" alt="CSS3" title="Confluence"/>
-      <br>Confluence
+      <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="48" height="48" alt="React" title="React Framework">
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" width="48" height="48" alt="Sass" title="SASS PreProcessor"/>
+      <br>SASS
     </td>
   </tr>
   
@@ -48,24 +48,24 @@
       <br>Figma
     </td>
     <td align="center" width="96">
-        <img src="https://brandpalettes.com/wp-content/uploads/2021/06/firebase-color-codes.svg" width="48" height="48" alt="Firebase" title="Firebase" />
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" title="Git Version Control System" />
       <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/gulpjs/artwork/master/community/logo-2021/community.png" width="48" height="48" alt="Gulp" title="GulpJs"/>
-      <br>Gulp
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/81/HCII_logo.svg/1200px-HCII_logo.svg.png" width="48" height="48" alt="HTML5" title="Human Computer Interaction & UX"/>
-      <br>HCI & UX
     </td>
       <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" width="48" height="48" alt="HTML5" title="Semantic HTML"/>
       <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="Scrum" title="Typescript" />
+      <br>Typescript
+    </td>
+         <td align="center" width="96">
+        <img src="https://i.pinimg.com/originals/45/03/98/450398f4ff10d0253602b6a6d99419ed.png" width="48" height="48" alt="Node.js" title="Object-Oriented Programming"/>
+      <br>OOP
+    </td>
+        <td align="center" width="96">
+        <img src="https://pluralsight2.imgix.net/paths/images/scrum-a5c44d8364.png" width="48" height="48" alt="Scrum" title="Scrum/Agile Methodologies" />
+      <br>Scrum
     </td>
   </tr>
   <tr> <!--ROW----------------------------------------------------------------------------->
@@ -96,36 +96,6 @@
     <td align="center" width="96">
         <img src="https://nodejs.org/static/images/logo.svg" width="48" height="48" alt="Node.js" title="Node.js" />
       <br>Node.js
-    </td>
-  </tr>
-  <tr>
-     <td align="center" width="96">
-        <img src="https://i.pinimg.com/originals/45/03/98/450398f4ff10d0253602b6a6d99419ed.png" width="48" height="48" alt="Node.js" title="Object-Oriented Programming"/>
-      <br>OOP
-    </td>
-    <td align="center" width="96">
-      <img src="https://brandslogos.com/wp-content/uploads/images/large/adobe-photoshop-cs4-logo.png" width="48" height="48" alt="Photoshop" title="Adobe Photoshop">
-      <br>PhotoShop
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="48" height="48" alt="React" title="React Framework">
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" width="48" height="48" alt="Sass" title="SASS PreProcessor"/>
-      <br>SASS
-    </td>
-        <td align="center" width="96">
-        <img src="https://pluralsight2.imgix.net/paths/images/scrum-a5c44d8364.png" width="48" height="48" alt="Scrum" title="Scrum/Agile Methodologies" />
-      <br>Scrum
-    </td>
-    <td align="center" width="96">
-        <img src="https://avatars.githubusercontent.com/u/22632046?s=200&v=4" width="48" height="48" alt="Scrum" title="Storybook" />
-      <br>Storybook
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="Scrum" title="Typescript" />
-      <br>Typescript
     </td>
   </tr>
   </table>
@@ -164,13 +134,13 @@
     </tr>
     <tr>
     <td align="center" width="96">
-        <img src="https://dashboard.snapcraft.io/site_media/appmedia/2018/03/tiled-logo-256.png" width="48" height="48" alt="Tiled" title="Tiled"/>
-        <br>Tiled
-     </td>
-      <td align="center" width="96">
-        <img src="https://gamingshogun.com/wp-content/uploads/2012/11/unityLogo.png" width="48" height="48" alt="Unity" title="Unity"/>
-        <br>Unity
-     </td>
+        <img src="https://nodejs.org/static/images/logo.svg" width="48" height="48" alt="Node.js" title="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png" width="48" height="48" alt="Jira" title="Jest Unit Testing"/>
+      <br>Jest
+    </td>
     </tr>
   </table>
   
