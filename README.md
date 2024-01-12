@@ -1,11 +1,10 @@
-<h1>👋 Hello there, I'm Kyle DeGuzman</h1>
-- 👀 I’m a Front-End Engineer at AWS. <br>
-- 🌱 I’m currently learning about component libraries, AWS services, and maybe Unreal Engine very soon<br>
-- 💞️ I’m looking to collaborate on any UX design project or blog posts.  <br>
-- 🔎 Find my content on  Medium <a href="https://medium.com/@kyledeguzmanx">@kyledeguzmanx</a>. I regularly contribute to <a href="https://javascript.plainenglish.io/">Javascript in Plain English </a>  <br>
-- 🧑‍🎨Find some of my design projects on Figma <a href="https://www.figma.com/@kyledeguzmanx">@kyledeguzmanx</a> <br>
-- 📫 Reach me on Twitter @kyledeguzmanx or LinkedIn <br>
-- 👨🏽‍🎓 CSUN 2022 Grad 
+<h1>👋 Hello there, I'm Hussain Zahid</h1>
+- 👀 I’m a Software Engineer based in the UK. <br>
+- 🌱 I’m currently learning more about CI/CD and Devops <br>
+- 💞️ I’m looking to collaborate on any project or blog posts.  <br>
+- 🧑‍🎨 Find some of the companies I've worked with at <a href="https://www.figma.com/@kyledeguzmanx">hussainzahid.dev</a> <br>
+- 📫 Reach me through hussainzahidgiki@gmail.com or LinkedIn <br>
+- 👨🏽‍🎓 MSc Software Engineering from Cardiff University
 <h2> Skills </h2>
 <table align="center">
   <tr>
@@ -18,8 +17,8 @@
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="48" height="48" alt="C" title="C Language"/>
-      <br>C
+        <img src="https://versioneye.files.wordpress.com/2013/05/foto1_python-logo-glassy.png" width="48" height="48" alt="Python" title="Python"/>
+      <br>Python
     </td>
     <td align="center" width="96">
         <img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" width="48" height="48" alt="C++" title="C++ Language"/>
@@ -41,7 +40,7 @@
   
   <tr>
     <td align="center" width="96">
-        <img src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png" width="48" height="48" alt="Git" title="Express" />
+        <img src="https://kinsta.com/wp-content/uploads/2022/04/express-1.png" width="48" height="48" alt="Git" title="Express" />
       <br>ExpressJS
     </td>
     <td align="center" width="96">
@@ -95,7 +94,7 @@
       <br>JSON
     </td>
     <td align="center" width="96">
-        <img src="https://icons-for-free.com/iconfiles/png/512/install+javascript+js+node+npm+tools+icon-1320165731324625592.png" width="48" height="48" alt="Node.js" title="Node.js" />
+        <img src="https://nodejs.org/static/images/logo.svg" width="48" height="48" alt="Node.js" title="Node.js" />
       <br>Node.js
     </td>
   </tr>
@@ -134,31 +133,30 @@
   <h2> Experience with </h2>
   <table align="center">
     <tr>
-      <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="48" height="48" alt="Phaser" title="Phaser"/>
-        <br>C#
-     </td>
+    <td align="center" width="96">
+      <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="48" height="48" alt="React" title="React Framework">
+      <br>React
+    </td>
       <td align="center" width="96">
         <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="48" height="48" alt="GitLab" title="GitLab"/>
         <br>GitLab
      </td>
       <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="48" height="48" alt="Laravel" title="Laravel"/>
-        <br>Laravel
+        <img src="https://nestjs.com/logo-small.ede75a6b.svg" width="48" height="48" alt="Laravel" title="Laravel"/>
+        <br>Nest JS
      </td>
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/npm-logo.png" width="48" height="48" alt="MongoDB" title="MongoDB"/>
-        <br>MongoDB
-     </td>
-      <td align="center" width="96">
-        <img src="https://phaser.io/images/logo/logo-download-vector.png" width="48" height="48" alt="Phaser" title="Phaser"/>
-        <br>Phaser
-     </td>
-      <td align="center" width="96">
-        <img src="https://versioneye.files.wordpress.com/2013/05/foto1_python-logo-glassy.png" width="48" height="48" alt="Python" title="Python"/>
-        <br>Python
-     </td>
+        <img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" width="48" height="48" alt="MongoDB" title="MongoDB"/>
+        <br>MySQL
+    <td align="center" width="96">
+        <img src="https://www.seekpng.com/png/full/80-803501_javascript-logo-logo-de-java-script-png.png" width="48" height="48" alt="Javascript" title="Javascript(ES6)"/>
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="Scrum" title="Typescript" />
+      <br>Typescript
+    </td>
      <td align="center" width="96">
         <img src="https://everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png" width="48" height="48" alt="Redux" title="Redux"/>
         <br>Redux
