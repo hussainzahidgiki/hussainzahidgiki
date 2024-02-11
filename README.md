@@ -2,7 +2,7 @@
 - 👀 I’m a Software Engineer based in the UK. <br>
 - 🌱 I’m currently learning more about CI/CD and Devops <br>
 - 💞️ I’m looking to collaborate on any project or blog posts.  <br>
-- 🧑‍🎨 Find some of the companies I've worked with at <a href="https://www.figma.com/@kyledeguzmanx">hussainzahid.dev</a> <br>
+- 🧑‍🎨 Find some of the companies I've worked with at <a href="https://hussainzahid.dev/">hussainzahid.dev</a> <br>
 - 📫 Reach me through hussainzahidgiki@gmail.com or LinkedIn <br>
 - 👨🏽‍🎓 MSc Software Engineering from Cardiff University
 <h2> Skills </h2>
